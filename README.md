@@ -1,1 +1,2 @@
-# Wordpress
+# Photo Portfolio
+## Using Wordpress
